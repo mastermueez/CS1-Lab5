@@ -1,3 +1,6 @@
+# Line 1 changed
+# Line 2 changed
+
 #include <stdio.h>
 #include <stdlib.h>
 
